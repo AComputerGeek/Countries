@@ -1,0 +1,109 @@
+Andorra la Vella
+Luanda
+Canberra
+Vienna
+Baku
+Nassau
+Manama
+Dhaka
+Porto Novo
+Thimphu
+Sucre
+Sarajevo
+Gaborone
+Brasilia
+Sofia
+Ouagadougou
+Gitega
+Yaounde
+Ottawa
+Praia
+Bangui
+N'Djamena
+Santiago
+Bogota
+Moroni
+Kinshasa
+Brazzaville
+San Jose
+Yamoussoukro
+Havana
+Nicosia
+Prague
+Djibouti
+Roseau
+Santo Domingo
+Dili
+Quito
+Cairo
+Malabo
+Asmara
+Mbabana
+Addis Ababa
+Suva
+Helsinki
+Libreville
+Tbilisi
+Accra
+Bissau
+Port au Prince
+Tegucigalpa
+New Delhi
+Jakarta
+Rome
+Tokyo
+Nairobi
+Pristina
+Vientiane
+Riga
+Maseru
+Monrovia
+Tripoli
+Antananarivo
+Lilongwe
+Male
+Bamako
+Valletta
+Majuro
+Chisinau
+Monaco
+Podgorica
+Maputo
+Kathmandu
+Managua
+Abuja
+Skopje
+Oslo
+Lima
+Manila
+Doha
+Kigali
+Basseterre
+Apia
+San Marino
+Sao Tome
+Belgrade
+Victoria
+Singapore
+Bratislava
+Ljubljana
+Honiara
+Mogadishu
+Juba
+Colombo
+Paramaribo
+Taipei
+Dushanbe
+Dodoma
+Lome
+Nuku'alofa
+Ankara
+Funafuti
+Kampala
+Abu Dhabi
+Montevideo
+Port Vila
+Hanoi
+Sana'a
+Lusaka
+Harare
